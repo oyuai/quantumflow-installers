@@ -1,6 +1,6 @@
 ### Prerequisites
 Before installing QuantumFlow, ensure you have:
-- Debian-based Linux distribution
+- Debian-based or RHEL-based Linux distribution
 - Root/sudo access
 - Working internet connection
 
