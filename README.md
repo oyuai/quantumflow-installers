@@ -10,7 +10,7 @@ Before installing QuantumFlow, ensure you have:
 #### 1. Download QuantumFlow
 Download the QuantumFlow Debian package from GitHub:
 
-Sign up for Quantumflow here: https://oyu.ai/quantumflow/ and receive instructions to download
+Sign up for Quantumflow here: https://oyu.ai/quantumflow/ and receive instructions & License to download 
 <!-- ```bash -->
 <!-- dpkg -i ./quantumflow.deb -->
 <!-- ``` -->
@@ -28,7 +28,7 @@ dpkg -i ./quantumflow.deb
 #### 1. Download QuantumFlow
 Download the QuantumFlow RPM package from GitHub:
 
-Sign up for Quantumflow here: https://oyu.ai/quantumflow/ and receive instructions to download
+Sign up for Quantumflow here: https://oyu.ai/quantumflow/ and receive instructions & License to download
 <!-- ```bash -->
 <!-- dpkg -i ./quantumflow.deb -->
 <!-- ``` -->
